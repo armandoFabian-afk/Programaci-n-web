@@ -1,0 +1,46 @@
+*{  padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background-color: #1FFF1D;
+	font-size: 18px;
+	margin: 50px;
+}
+.general{
+	text-align: center;
+	padding: 50px;
+	
+}
+
+h1,h2,h3{
+	color: #000000;
+	font-size: 2em;
+	font-family: "Hevaltica", "Italic",sana-serif;
+	font-weight: bolder;
+	background-color: #00FFFF
+}
+ul,ol{
+	list-style-type: none;
+}
+
+.Button{
+	text-align: right;
+	font-style: italic;
+	font-weight: bold;
+	font-color: #000000;
+	border:50px;
+	border-radius: 40px;
+	background-color: #FAFF00;
+	padding: 20px;
+    margin: 50px auto;
+	width: 300px;
+	box-sizing: 300px auto;
+}
+
+
+
+
+
+
